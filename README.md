@@ -4,26 +4,28 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Carlos!;" />
 </h1>
 
-- 👨🏾 tenho 20 anos
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ciencia da computação** na **unifal**.
-- 💼 Em busca de oportunidades de estagio.
-- 🌱 Aprendendo mais sobre c++.
+👨🏾‍💻 Tenho 21 anos
+
+📊 Interessado em Análise de Dados, Business Intelligence e Data Analytics
+
+🎓 Graduando em Ciência da Computação pela UNIFAL
+
+💼 Buscando oportunidades de estágio na área de dados
+
+🌱 Estudando SQL, estatística, análise exploratória de dados e visualização
+
+📈 Experiência prática com resolução de problemas, lógica e análise de informações
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-
-**Utilidades**
-
-**DevOps**
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
@@ -31,8 +33,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Neatbeans](https://img.shields.io/badge/-Neatbeans-333333?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 
 <br/>
 
@@ -43,7 +43,10 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-augusto-regis-lorim-4836b2328/)](https://www.linkedin.com/in/carlos-augusto-regis-lorim-4836b2328/)
-[![Gmail Badge](https://img.shields.io/badge/-carloslorimm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloslorimm@gmail.com)](carloslorimm@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](Lhttps://github.com/carlos-lorim)
+[![LinkedIn](https://img.shields.io/badge/-Carlos%20Lorim-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lorim)
+
+[![Gmail Badge](https://img.shields.io/badge/-carloslorimm@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:carloslorimm@gmail.com)
+
+[![GitHub](https://img.shields.io/github/followers/carlos-lorim?label=follow&style=social)](https://github.com/carlos-lorim)
+
 
