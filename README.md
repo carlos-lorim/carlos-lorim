@@ -34,7 +34,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-[![GitHub Stats do Carlos Lorim](https://github-readme-stats.vercel.app/api?username=carlos-lorim&theme=dracula&show_icons=true)](https://github.com/carlos-lorim)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-lorim&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-lorim&layout=compact&theme=dracula)
 
 
 
