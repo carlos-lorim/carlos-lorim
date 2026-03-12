@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Carlos!;" /> </h1>
 
 🎓 Graduando em **Ciência da Computação** pela **UNIFAL**  
-📊 Focado em **Análise de Dados, Business Intelligence e Data Analytics**  
+📊 Focado em **Análise de Dados, Business Intelligence e Data Science **  
 💼 Em busca de **estágio na área de dados**  
 🌱 Estudando **SQL, Estatística, EDA e Visualização de Dados**  
 📈 Experiência com **resolução de problemas, lógica e análise de informações**
@@ -9,9 +9,10 @@
 ---
 
 ## 🧠 Áreas de Interesse
-- Análise de Dados
+
 - Business Intelligence
 - Data Analytics
+- Data Science
 - Métricas, indicadores e tomada de decisão
 
 ---
